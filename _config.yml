@@ -1,3 +1,4 @@
-title: My Jekyll Site
+title: "Excavator Rental Service"
+description: "Reliable, high-quality machinery for all your construction needs"
 plugins:
   - jekyll-sitemap
